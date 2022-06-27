@@ -753,11 +753,11 @@ ul li {
     margin-top: 0;
     padding-bottom: 5px;
     position: relative;
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .section-heading.light {
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .section-heading.light span {
@@ -942,11 +942,11 @@ blockquote.quote cite {
 
 .owl-light .owl-dots .owl-dot.active span {
     width: 40px;
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 
 .owl-light .owl-dots .owl-dot:hover span {
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 
 .owl-light .owl-controls {
@@ -1006,7 +1006,7 @@ blockquote.quote cite {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: #0c1a47;
+    background-color: #2a254e;
     opacity: .6;
 }
 
@@ -1322,7 +1322,7 @@ blockquote.quote cite {
 }
 
 .btn-secondary {
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 
 .btn-secondary:hover {
@@ -1344,8 +1344,8 @@ blockquote.quote cite {
 }
 
 .btn-secondary.disabled {
-    background-color: #0c1a47;
-    border-color: #0c1a47;
+    background-color: #2a254e;
+    border-color: #2a254e;
 }
 
 .btn-secondary.disabled:hover {
@@ -1494,7 +1494,7 @@ SOSMED-ICON
 
 .sosmed-icon.icon-bg-primary a:hover {
     color: #ffffff;
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 
 
@@ -1547,7 +1547,7 @@ FEATURE ICON
 }
 
 .rs-feature-1:hover {
-    background-color: #0c1a47;
+    background-color: #2a254e;
     color: #ffffff;
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
@@ -1619,13 +1619,13 @@ IMAGE BOX
 
 .rs-shop-box .body-text .title {
     font-weight: 400;
-    color: #0c1a47;
+    color: #2a254e;
     font-size: 16px;
     margin-bottom: 10px;
 }
 
 .rs-shop-box .body-text .title a {
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .rs-shop-box .body-text .title a:hover {
@@ -1647,13 +1647,13 @@ IMAGE BOX
 
 .title-blok {
     font-weight: 400;
-    color: #0c1a47;
+    color: #2a254e;
     font-size: 16px;
     margin-bottom: 10px;
 }
 
 .title-blok a {
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .title-blok a:hover {
@@ -1694,13 +1694,13 @@ IMAGE BOX
 
 .shop-item-sidebar .body-text .title {
     font-weight: 400;
-    color: #0c1a47;
+    color: #2a254e;
     font-size: 16px;
     margin-bottom: 10px;
 }
 
 .shop-item-sidebar .body-text .title a {
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .shop-item-sidebar .body-text .title a:hover {
@@ -1745,7 +1745,7 @@ ICON 2
 }
 
 .box-icon-1 .body-content {
-    color: #0c1a47;
+    color: #2a254e;
     margin-left: 70px;
     font-weight: 700;
     font-size: 24px;
@@ -2009,7 +2009,7 @@ ICON 2
 }
 
 .rs-icon-info-4 .title {
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 
@@ -2110,7 +2110,7 @@ FACT
 }
 
 .rs-funfact.bg-primary .box-fun:before {
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 
 .rs-funfact.bg-secondary .box-fun:before {
@@ -2167,7 +2167,7 @@ CLASSES
 
 .rs-class-box .price {
     font-size: 24px;
-    color: #0c1a47;
+    color: #2a254e;
     font-weight: 700;
 }
 
@@ -2199,7 +2199,7 @@ CLASSES
 }
 
 .rs-class-box .size {
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 
 
@@ -2289,7 +2289,7 @@ BOX IMAGE
     width: 30px;
     display: block;
     margin: 7% 0;
-    background: #0c1a47;
+    background: #2a254e;
 }
 
 .box-image-5 a {
@@ -2622,11 +2622,11 @@ TESTIMONIALS
 .rs-feature-box-1.bg-primary .btn-secondary,
 .rs-feature-box-1.bg-primary .btn-light,
 .rs-feature-box-1.bg-primary .btn-ghost-light {
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 
 .rs-feature-box-1.bg-secondary {
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 
 .rs-feature-box-1.bg-secondary .fa {
@@ -2806,7 +2806,7 @@ BLOG
 }
 
 .rs-news-1 .body-box .title a:hover {
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .rs-news-1 .body-box .title {
@@ -2819,7 +2819,7 @@ BLOG
 .rs-news-1 .body-box .meta-date {
     font-size: 13px;
     margin-bottom: 20px;
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .rs-news-1:hover .body-box:before {
@@ -2890,7 +2890,7 @@ BOX TEAM
 
 .rs-team-1 .title {
     margin-bottom: 5px;
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .rs-team-1 .position {
@@ -2968,7 +2968,7 @@ BOX ICON
 
 .rs-icon-1 .body-content .heading {
     font-weight: 700;
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 
@@ -3299,16 +3299,16 @@ TABS
     border: 1px solid #e6e6e6;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
-    color: #0c1a47;
+    color: #2a254e;
     font-size: 18px;
     font-weight: 700;
     padding: 0.5rem 3rem;
 }
 
 .rs-tabs .nav-tabs .nav-link.active {
-    background-color: #0c1a47;
+    background-color: #2a254e;
     color: #ffffff;
-    border-color: #0c1a47;
+    border-color: #2a254e;
 }
 
 .rs-tabs .tab-content {
@@ -3391,7 +3391,7 @@ TESTIMONIAL
     top: 0;
     left: 95px;
     z-index: 9;
-    color: #0c1a47;
+    color: #2a254e;
     font-size: 18px;
 }
 
@@ -3487,7 +3487,7 @@ Back To Top Section
     overflow: hidden;
     text-indent: 100%;
     white-space: nowrap;
-    background: #0c1a47 url("../images/cd-top-arrow.svg") no-repeat center 50%;
+    background: #2a254e url("../images/cd-top-arrow.svg") no-repeat center 50%;
     visibility: hidden;
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -3535,7 +3535,7 @@ Back To Top Section
 
 .rs-progress .name span {
     font-size: 16px;
-    color: #0c1a47;
+    color: #2a254e;
 }
 
 .rs-progress .persen {
@@ -3611,7 +3611,7 @@ Back To Top Section
 /* 4.1 - NAVBAR */
 
 .topbar {
-    background-color: #0c1a47;
+    background-color: #2a254e;
     color: #ffffff;
     font-family: "Open Sans", sans-serif;
 }
@@ -3785,7 +3785,7 @@ Back To Top Section
 }
 
 .header-1 .navbar-#9f1c03 color: #ffffff;
-background-color: #0c1a47;
+background-color: #2a254e;
 
 }
 .header-1 .navbar-main .nav-link {
@@ -3800,7 +3800,7 @@ background-color: #0c1a47;
     border-radius: 30px;
 }
 .header-1 .navbar-main .nav-link:hover {
-    color: #0c1a47;
+    color: #2a254e;
     background-color: transparent;
 }
 .header-1 .navbar-main.stiky {
@@ -3850,7 +3850,7 @@ background-color: #0c1a47;
 }
 .header-1 .navbar-main.stiky .nav-link:hover,
 .header-1 .navbar-main.stiky .nav-link:focus {
-    color: #0c1a47;
+    color: #2a254e;
 }
 @media (max-width: 767px) {
     .header-1 .navbar-main {
@@ -3954,7 +3954,7 @@ background-color: #0c1a47;
     margin-top: -90px;
 }
 .wrapCarouselThumbs .owl-item {
-    border: 3px solid #0c1a47;
+    border: 3px solid #2a254e;
 }
 .wrapCarouselThumbs .owl-item.current {
     border-color: #FD4D40;
@@ -4211,7 +4211,7 @@ background-color: #0c1a47;
 }
 .no-touch #cd-zoom-in:hover,
 .no-touch #cd-zoom-out:hover {
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 #cd-zoom-in {
     background-position: 50% 0;
@@ -4318,7 +4318,7 @@ background-color: #0c1a47;
     font-family: "Open Sans", sans-serif;
 }
 .single-news .meta-date {
-    color: #0c1a47;
+    color: #2a254e;
     font-size: 12px;
     font-style: italic;
     margin-bottom: 20px;
@@ -4426,7 +4426,7 @@ background-color: #0c1a47;
     color: rgba(34, 34, 34, 0.3);
 }
 .comments-box .reply a:hover {
-    color: #0c1a47;
+    color: #2a254e;
 }
 .similar-box .title-heading,
 .comments-box .title-heading,
@@ -4442,7 +4442,7 @@ background-color: #0c1a47;
 /* end single blog */
 .promo-ads {
     padding: 25px;
-    background-color: #0c1a47;
+    background-color: #2a254e;
     border-bottom: 2px solid #FD4D40;
 }
 .page404 .title {
@@ -4630,7 +4630,7 @@ background-color: #0c1a47;
     padding: 20px 0 30px 0;
     margin-bottom: 0;
     position: relative;
-    color: #0c1a47;
+    color: #2a254e;
     font-family: "Pacifico", cursive;
 }
 .footer .footer-item .footer-sosmed {
@@ -4680,7 +4680,7 @@ background-color: #0c1a47;
     font-family: FontAwesome;
     left: 0;
     position: absolute;
-    color: #0c1a47;
+    color: #2a254e;
 }
 .footer .footer-item .list li a:hover {
     color: #FD4D40;
@@ -4777,7 +4777,7 @@ background-color: #0c1a47;
     padding: 15px 0;
     font-size: 14px;
     border-top: 1px solid #FD4D40;
-    background-color: #0c1a47;
+    background-color: #2a254e;
 }
 .list-info {
     margin: 0;
@@ -4790,7 +4790,7 @@ background-color: #0c1a47;
 }
 .list-info li .info-icon {
     display: table-cell;
-    color: #0c1a47;
+    color: #2a254e;
 }
 .list-info li .info-text {
     /*margin-left: 30px;*/
